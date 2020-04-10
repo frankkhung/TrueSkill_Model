@@ -1,5 +1,5 @@
 using Revise # lets you change A2funcs without restarting julia!
-includet("A2_src.jl")
+includet("TrueSkill_src.jl")
 using Plots
 using Statistics: mean
 using Zygote
